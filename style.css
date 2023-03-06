@@ -108,7 +108,7 @@ section{
 }
 
 .dark{
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(36, 35, 35); 
     height: 630px;
     display: flex;
     justify-content: center;
@@ -120,8 +120,7 @@ section{
     border: 2px dashed black;
     margin-bottom: 2em;
     width: 350px;
-    height: 580px;
-    
+    height: 580px; 
 }
 
 #lgreen{
@@ -130,4 +129,33 @@ section{
     margin-bottom: 2em;
     width: 220px;
     height: 580px;
+}
+
+footer{
+    background-color: rgb(36, 35, 35); 
+    height: 80px; 
+    border: 1px solid white; 
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.fcontainer{
+    background-color: aquamarine;
+    width: 1100px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#Logo{
+    background-color: pink;
+    border: 2px dashed black;
+    width: 70px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
 }
