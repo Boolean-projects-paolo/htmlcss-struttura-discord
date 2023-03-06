@@ -30,7 +30,6 @@ header{
     height: 35px;
 }
 
-
 #logo{
     padding-left: 0.5em;
 }
@@ -52,7 +51,7 @@ section{
     border: 2px solid black;
 }
 
-
+/* Section Blue */
 .blue{
     background-color: rgb(0, 0, 140);
     height: 500px;
@@ -68,6 +67,7 @@ section{
     height: 400px;
 }
 
+/* Sections White */
 .white{
     background-color: white;
     display: flex;
@@ -89,6 +89,7 @@ section{
     height: 500px;
 }
 
+/* Sections Grey */
 .grey{
     background-color: lightgray;
     display: flex;
@@ -107,6 +108,7 @@ section{
     height: 800px;
 }
 
+/* Section Dark */
 .dark{
     background-color: rgb(36, 35, 35); 
     height: 630px;
@@ -130,6 +132,8 @@ section{
     width: 220px;
     height: 580px;
 }
+
+/* Caratteristiche - Footer */
 
 footer{
     background-color: rgb(36, 35, 35); 
