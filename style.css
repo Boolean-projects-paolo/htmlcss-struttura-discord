@@ -3,3 +3,42 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    max-width: 1500px;
+    margin: auto;
+}
+
+/* Caratteristiche - Header */
+
+header{
+    background-color:lightblue;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    background-color: goldenrod;
+    border: 2px dashed black;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 35px;
+}
+
+
+#logo{
+    padding-left: 0.5em;
+}
+
+#link{
+    justify-content: center;
+    width: 500px;
+}
+
+#login{
+    justify-content: right;
+    padding-right: 0.5em;
+}
