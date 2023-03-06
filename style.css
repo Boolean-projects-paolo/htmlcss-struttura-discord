@@ -5,7 +5,7 @@
 }
 
 body{
-    max-width: 1600px;
+    max-width: 2000px;
     margin: auto;
     
 }
@@ -14,7 +14,7 @@ body{
 
 header{
     background-color:lightblue;
-    height: 60px;
+    height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,8 +26,8 @@ header{
     border: 2px dashed black;
     display: flex;
     align-items: center;
-    width: 200px;
-    height: 35px;
+    width: 250px;
+    height: 40px;
 }
 
 #logo{
@@ -36,7 +36,7 @@ header{
 
 #link{
     justify-content: center;
-    width: 600px;
+    width: 800px;
 }
 
 #login{
@@ -47,7 +47,7 @@ header{
 /* Caratteristiche - Main */
 
 section{
-    height: 600px;
+    height: 700px;
     border: 2px solid black;
 }
 
@@ -63,7 +63,7 @@ section{
 #viol{
     background-color: rgb(198, 108, 206);
     border: 2px dashed black;
-    width: 700px;
+    width: 1000px;
     height: 400px;
 }
 
@@ -78,15 +78,15 @@ section{
 #azure{
     background-color:dodgerblue;
     border: 2px dashed black;
-    width: 700px;
-    height: 500px;
+    width: 800px;
+    height: 600px;
 }
 
 #pink{
     background-color: pink;
     border: 2px dashed black;
-    width: 400px;
-    height: 500px;
+    width: 500px;
+    height: 600px;
 }
 
 /* Sections Grey */
@@ -104,7 +104,7 @@ section{
 
 #green{
     background-color: darkgreen;
-    width: 1100px;
+    width: 1300px;
     height: 800px;
 }
 
@@ -121,7 +121,7 @@ section{
     background-color: rgb(255, 149, 193);
     border: 2px dashed black;
     margin-bottom: 2em;
-    width: 350px;
+    width: 420px;
     height: 580px; 
 }
 
@@ -137,7 +137,7 @@ section{
 
 footer{
     background-color: rgb(36, 35, 35); 
-    height: 80px; 
+    height: 100px; 
     border: 1px solid white; 
     display: flex;
     justify-content: center;
@@ -146,7 +146,7 @@ footer{
 
 .fcontainer{
     background-color: aquamarine;
-    width: 1100px;
+    width: 1300px;
     height: 60px;
     display: flex;
     justify-content: space-between;
@@ -161,5 +161,4 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center
-
 }
